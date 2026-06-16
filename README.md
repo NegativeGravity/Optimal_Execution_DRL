@@ -62,8 +62,6 @@ The project includes a 3-panel institutional dashboard for post-trade analysis:
 2. **Inventory Decay Race:** Visualizing the AI's inventory curve wrapping around the linear TWAP baseline.
 3. **Action Multiplier:** A clear bar chart showing where the AI applied the brakes or pressed the gas.
 
-*(Add your dashboard screenshot here: `![Execution Dashboard](assets/dashboard.png)`)*
-
 ---
 
 ### Prerequisites
